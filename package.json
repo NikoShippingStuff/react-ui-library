@@ -1,14 +1,13 @@
 {
-  "name": "react-ui-library",
-  "description": "Template to quick-start React library development with TypeScript.",
-  "private": true,
+  "name": "@nikoshippingstuff/react-ui-library",
+  "description": "React UI library for all my projects.",
   "version": "1.0.0",
   "type": "module",
-  "author": "Your Name <your-email@example.com>",
+  "author": "Niko <NikoShippingStuff@proton.me>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mlshv/create-react-ui-lib.git"
+    "url": "git+https://github.com/NikoShippingStuff/react-ui-library.git"
   },
   "exports": {
     ".": {
